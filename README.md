@@ -16,7 +16,7 @@ Y：表示地圖Y軸，會隨著Zoom的縮放倍率變化，Y值範圍從0~ $2^Z
   為麥卡托投影的改良版，Web麥卡托投影在所有尺度都是使用球面投影進行，麥卡托投影在大比例尺中是使用橢球面投影。在全球比例尺下不會察覺，當離赤道越遠偏差越明顯。  
   https://zh.m.wikipedia.org/zh-hk/Web%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1  
     
-* 經緯度轉換：http://xshadowwolfx.blogspot.com/2017/10/osm-tile.html  
+* 經緯度、圖磚 轉換：http://xshadowwolfx.blogspot.com/2017/10/osm-tile.html  
  
 ## 台灣圖磚範圍    
   1. **Z=6**  

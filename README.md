@@ -3,7 +3,7 @@ https://docs.publicsectormapping.gov.scot/viaeuropa/maps/xyz-tiles
 
 https://blog.yeshuanova.com/2018/04/implement-osm-map-tiles/
 
--圖磚座標系統：  
+## 圖磚座標系統    
 使用Web麥卡托投影方法 ，以Z(zoom)、X、Y表示，(X,Y)=(0,0)從左上角開始，(X,Y)=( $2^Z$ -1, $2^Z$ -1)為右下角。  
 
 Z：表示縮放大小，數值從0~19，數值越大表示放大倍率越大。Z=0為涵蓋整個世界地圖。  
@@ -18,7 +18,7 @@ Y：表示地圖Y軸，會隨著Zoom的縮放倍率變化，Y值範圍從0~ $2^Z
     
 * 經緯度轉換：http://xshadowwolfx.blogspot.com/2017/10/osm-tile.html  
  
-台灣圖磚範圍：  
+## 台灣圖磚範圍    
   1. **Z=6**  
      **X =53**、**Y = 27**  
      經度：118.125、123.75  

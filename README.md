@@ -3,6 +3,8 @@ https://docs.publicsectormapping.gov.scot/viaeuropa/maps/xyz-tiles
 
 https://blog.yeshuanova.com/2018/04/implement-osm-map-tiles/
 
+https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Resolution_and_Scale
+
 # 圖磚座標系統    
 使用Web麥卡托投影方法 ，以Z(zoom)、X、Y表示，(X,Y)=(0,0)從左上角開始，(X,Y)=( $2^Z$ -1, $2^Z$ -1)為右下角。  
 
